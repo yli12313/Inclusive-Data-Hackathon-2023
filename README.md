@@ -1,7 +1,7 @@
 # Inclusive-Data-Hackathon-2023
 # <ins>Problem Statements</ins>:
 
-**Generative AI Problem Statements**
+**## Generative AI Problem Statements ##**
 1. Research and Document Summarization
 2. Augmented Advisory for Customers in the Financial Services Industry
 3. Enhancing Customer Engagement and Retention in Financial Services with Generative AI
