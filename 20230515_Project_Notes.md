@@ -6,19 +6,19 @@ Problem statement #1:
 - Emissions impact from different types of organizations (i.e. JPMorgan).
 - Want to have have emissions data estimates. 
 - Have exact data that we have to use.
-- **Questions**:
+- **Questions/Interesting Points**:
 
 Problem statement #2:
 - Deal with different land plots and deals with geo-mapping. Using geo-location to determine emissions.
 - Predict emissions based on different farming data points.
 - Potentially using ArcGIS?
 - This is a predictive modeling task: have to take into account many different factors (seasons, farming, etc.).
-- **Questions**:
+- **Questions/Interesting Points**:
 
 Problem statement #3:
 - Uses more attributes to determine biodiversity.
 - This one we would need to first research heavily TNFD.
-- **Questions**:
+- **Questions/Interesting Points**:
 
 ## Generative AI Problem Statements ##
 
@@ -29,7 +29,7 @@ Problem statement #1:
 - You need to build a UI: needs to be scalable, adaptable, user-friendly.
 - We need to work with libraries, etc.
 - [Interesting link](https://github.com/GoogleCloudPlatform/generative-ai/blob/18d602cc896b11d9cff0cd505c96358d91e9ec58/language/examples/prompt-design/text_summarization.ipynb).
-- **Questions**:
+- **Questions/Interesting Points**:
 
 Problem statement #2:
 - Financial planning chatbot-like application.
@@ -37,25 +37,25 @@ Problem statement #2:
 - Need someone with a strong background.
 - Can use Streamlit potentially; interesting link [here](https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846). 
 - Steps: Do user profiles and then develop the products that fits those profiles.
-- **Questions**:
+- **Questions/Interesting Points**:
 - Can we specify the financial services organizations we are interested in?
 
 Problem statement #3:
 - No marketing background. among us.
 - You want to use generative AI to get marketing content for a specific use case. 
 - Domain: emails, advertisements, social media posts, and other marketing materials + call to action.
-- **Questions**:
+- **Questions/Interesting Points**:
 
 Problem statement #4:
 - Text analysis that expands Problem Statement #4.
 - Take any financial report such as SEC filings and be able to find the key points + summarize it. 
 - Key points: search engine, narrative generation, UI, Evaluation metrics.
-- **Questions**:
+- **Questions/Interesting Points**:
 
 Problem statement #5:
 - Fraud detection and automating it.
 - Develop anomalies in a person's spending habits, etc.
-- **Questions**:
+- **Questions/Interesting Points**:
 
 #######
 
