@@ -68,13 +68,13 @@ Problem statement #5:
 
 Skills:
 * Tom:
-- Existing skills: Python, SQL, ReactJS, HTML/CSS, Using libraries within Jupyter Notebooks, PowerBI
-- Want to learn: AI/Machine Learning, very high interest in predictive models
+  - Existing skills: Python, SQL, ReactJS, HTML/CSS, Using libraries within Jupyter Notebooks, PowerBI
+  - Want to learn: AI/Machine Learning, very high interest in predictive models
 
 * Vernell:
-- Existing skills: SQL, Tableau, R, Python, PowerBI
-- Want to learn: More Python, Jupyter Notebook, AI
+  - Existing skills: SQL, Tableau, R, Python, PowerBI
+  - Want to learn: More Python, Jupyter Notebook, AI
 
 * Yingquan:
-- Existing skills: AWS, Python, SQL, Data Engineering, DevOps
-- Want to learn: Generative AI, ChatGPT (especially working with ChatGPT4 and the APIs), do something somewhat technical 
+  - Existing skills: AWS, Python, SQL, Data Engineering, DevOps
+  - Want to learn: Generative AI, ChatGPT (especially working with ChatGPT4 and the APIs), do something somewhat technical 
