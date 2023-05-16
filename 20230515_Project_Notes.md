@@ -55,7 +55,7 @@ Problem statement #4:
 Problem statement #5:
 - Fraud detection and automating it.
 - Develop anomalies in a person's spending habits, etc.
-- - **Questions**:
+- **Questions**:
 
 #######
 
