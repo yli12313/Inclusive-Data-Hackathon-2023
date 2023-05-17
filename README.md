@@ -14,6 +14,7 @@
 3. Biodiversity Index</s>
 
 **## We Selected: Generative AI Problem Statement #2 ##**
+
 In the financial services industry, customers often face complex decisions related to investments, financial planning, risk management, insurance, and other financial matters. Collaborative decision-making among customers can be facilitated using generative AI techniques to help them gather insights, compare options, and make informed financial decisions.
 Develop a generative AI solution that enables collaborative decision-making among customers in the financial services industry.
 
