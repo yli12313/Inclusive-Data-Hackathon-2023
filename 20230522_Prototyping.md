@@ -9,3 +9,4 @@
 
 **## <ins>Videos</ins> ##**:
 * Building a Website in only 12 minutes using Python & Streamlit ([Link](https://www.youtube.com/watch?v=VqgUkExPvLY)).
+* GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk ([Link](https://www.youtube.com/watch?v=vw-KWfKwvTQ)).
