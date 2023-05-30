@@ -1,5 +1,5 @@
 <ins>Articles/Documentation</ins>:
-* **Streamlit.io (Main Documentation) ([Link](https://streamlit.io/)).
+* **Streamlit.io (A faster way to buid and share data apps)** ([Link](https://streamlit.io/)).
 * **What is ChatGPT API? How to Use it?** ([Link](https://www.awesomescreenshot.com/blog/knowledge/chat-gpt-api)).
 * 
 
