@@ -1,6 +1,6 @@
 **## <ins>Articles/Documentation/Links</ins> ##**:
 * chat.openai.com ([Link](https://chat.openai.com/)).
-
+* platform.openai.com/docs ([Link](https://platform.openai.com/docs/introduction)).
 
 <br />
 
