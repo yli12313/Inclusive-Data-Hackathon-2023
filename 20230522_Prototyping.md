@@ -1,7 +1,7 @@
 **## <ins>Articles/Documentation/Links</ins> ##**:
 * chat.openai.com ([Link](https://chat.openai.com/)).
-
-
+* 
+<br>
 * Streamlit.io (A faster way to buid and share data apps) ([Link](https://streamlit.io/)).
 * What is ChatGPT API? How to Use it? ([Link](https://www.awesomescreenshot.com/blog/knowledge/chat-gpt-api)).
 
