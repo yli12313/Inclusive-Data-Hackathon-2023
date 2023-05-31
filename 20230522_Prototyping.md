@@ -15,7 +15,7 @@
 
 <br/>
 
-* Thunkable ([Link](https://thunkable.com/#/)).
+* Thunkable ([Link](https://thunkable.com/#/)). **REVIEW**
 
 **## <ins>Videos</ins> ##**:
 * Building a Website in only 12 minutes using Python & Streamlit ([Link](https://www.youtube.com/watch?v=VqgUkExPvLY)).
