@@ -1,5 +1,7 @@
 **## <ins>Tasks</ins> ##**:
-* Get the example that you found working and understand the code!
+* ~~Get the example that you found working and understand the code!~~
+* Do some serious prototyping/building/playing with Streamlit UI design.
+* Do some research out of curiosity into what else can you integrate ChatGPT APIs with to make web apps.
 
 **## <ins>Articles/Documentation/Links</ins> ##**:
 * chat.openai.com ([Link](https://chat.openai.com/)).
