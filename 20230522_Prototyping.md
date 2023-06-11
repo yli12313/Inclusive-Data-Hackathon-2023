@@ -15,10 +15,10 @@
 
 <br/>
 
-* Thunkable ([Link](https://thunkable.com/#/)). **REVIEW**
+* Thunkable ([Link](https://thunkable.com/#/)).
 
 **## <ins>Videos</ins> ##**:
 * Building a Website in only 12 minutes using Python & Streamlit ([Link](https://www.youtube.com/watch?v=VqgUkExPvLY)).
 * GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk ([Link](https://www.youtube.com/watch?v=vw-KWfKwvTQ)).
-* How to Build a Barista Bot in Twilio Studio ([Link](https://www.youtube.com/watch?v=VRxirse1UfQ&feature=youtu.be)). **REVIEW**
+* How to Build a Barista Bot in Twilio Studio ([Link](https://www.youtube.com/watch?v=VRxirse1UfQ&feature=youtu.be)).
 * I built a GPT Investment Banker using this 312 PAGE document ([Link](https://www.youtube.com/watch?v=u8vQyTzNGVY)).
