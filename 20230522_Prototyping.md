@@ -22,3 +22,4 @@
 * GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk ([Link](https://www.youtube.com/watch?v=vw-KWfKwvTQ)).
 * How to Build a Barista Bot in Twilio Studio ([Link](https://www.youtube.com/watch?v=VRxirse1UfQ&feature=youtu.be)).
 * I built a GPT Investment Banker using this 312 PAGE document ([Link](https://www.youtube.com/watch?v=u8vQyTzNGVY)).
+* LangChain Crash Course: Build a AutoGPT app in 25 minutes! ([Link](https://www.youtube.com/watch?v=MlK6SIjcjE8)).
