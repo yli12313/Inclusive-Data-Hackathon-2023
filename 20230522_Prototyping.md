@@ -25,3 +25,4 @@
 * LangChain Crash Course: Build a AutoGPT app in 25 minutes! ([Link](https://www.youtube.com/watch?v=MlK6SIjcjE8)).
 * I tested a STACK of FREE Large Language Models...here's how it went. ([Link](https://www.youtube.com/watch?v=5JpPo-NOq9s)).
 * LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners ([Link](https://www.youtube.com/watch?v=aywZrzNaKjs)).
+* CHATGPT For WEBSITES: Custom ChatBOT ([Link](https://www.youtube.com/watch?v=RBnuhhmD21U)).
