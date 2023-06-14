@@ -1,6 +1,6 @@
 **## <ins>Tasks</ins> ##**:
 * ~~Get the example that you found working and understand the code!~~
-* Do some serious prototyping/building/playing with Streamlit UI design.
+* ~~Do some serious prototyping/building/playing with Streamlit UI design.~~
 * Do some research out of curiosity into what else can you integrate ChatGPT APIs with to make web apps.
 
 **## <ins>Articles/Documentation/Links</ins> ##**:
@@ -26,3 +26,4 @@
 * I tested a STACK of FREE Large Language Models...here's how it went. ([Link](https://www.youtube.com/watch?v=5JpPo-NOq9s)).
 * LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners ([Link](https://www.youtube.com/watch?v=aywZrzNaKjs)).
 * CHATGPT For WEBSITES: Custom ChatBOT ([Link](https://www.youtube.com/watch?v=RBnuhhmD21U)).
+* How to customize the themes of your Streamlit web apps | Streamlit #24 ([Link](https://www.youtube.com/watch?v=3xJYP_C4KNE)).
