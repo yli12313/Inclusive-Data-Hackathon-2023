@@ -1,6 +1,9 @@
 # Inclusive-Data-Hackathon-2023
 # <ins>Problem Statements</ins>:
 
+**## Final Presentation ##**
+* Finished presenting on Thu. 6/15/23 @ 7:15 PM EST.
+
 **## Generative AI Problem Statements ##**
 1. Research and Document Summarization
 2. Augmented Advisory for Customers in the Financial Services Industry
