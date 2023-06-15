@@ -1,7 +1,7 @@
 # Inclusive-Data-Hackathon-2023
 
 # <ins>Final Presentation</ins>:
-* Finished presenting on Thu. 6/15/23 @ 7:15 PM EST.
+* Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
 
 # <ins>Problem Statements</ins>:
 
