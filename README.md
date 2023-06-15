@@ -1,8 +1,9 @@
 # Inclusive-Data-Hackathon-2023
-# <ins>Problem Statements</ins>:
 
-**## Final Presentation ##**
+# <ins>Final Presentation</ins>:
 * Finished presenting on Thu. 6/15/23 @ 7:15 PM EST.
+
+# <ins>Problem Statements</ins>:
 
 **## Generative AI Problem Statements ##**
 1. Research and Document Summarization
