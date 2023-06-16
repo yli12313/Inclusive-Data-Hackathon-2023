@@ -2,6 +2,7 @@
 
 # <ins>Final Presentation</ins>:
 * Finished presenting on **Thu. 6/15/23 @ 7:15 PM EST**.
+* Presentation is located right [here](https://github.com/yli12313/Presentations-Given/blob/main/20230616_Inclusive_Data_Hackathon_2/20230615_GenerativeAI_Problem2.pdf).
 
 # <ins>Problem Statements</ins>:
 
